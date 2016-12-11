@@ -1,0 +1,23 @@
+body {
+  background-color: #eee;
+}
+.brand {
+  padding-top: 20px;
+  margin-left: 40px;
+  font-family: 'Quicksand';
+  color: #00a4e4;
+}
+.nav-bar {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.nav-items {
+    font-family: 'Quicksand'
+}
+.mid-div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.img-welcome {
+  padding-top: 20px
+}
